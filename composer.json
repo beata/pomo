@@ -1,0 +1,14 @@
+{
+    "name": "beata/pomo",
+    "description": "A po/mo library that extracted from WordPress",
+    "type": "library",
+    "keywords": ["gettext"],
+    "homepage": "http://wordpress.org/",
+    "license": "GPL2",
+    "authors": [
+        {
+            "name": "Danilo Segan",
+            "email": "danilo@kvota.net"
+        }
+    ]
+}
